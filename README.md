@@ -1,2 +1,3 @@
 # Name_Vivek-Dhir
-My name using turtle graphics
+
+This code uses turtle library and writes my name(Vivek Dhir)
